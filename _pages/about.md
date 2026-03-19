@@ -7,8 +7,7 @@ profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
-  more_info: 
-    <p> Dipartimento di Elettronica Informazione e Bioingegneria </p>
+  more_info: <p> Dipartimento di Elettronica Informazione e Bioingegneria </p>
     <p> via Giuseppe Ponzio 34/5 </p>
     <p> Milan, Italy </p>
 

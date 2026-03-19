@@ -4,6 +4,6 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-    - name: dany-97.github.io
-      description: My personal website.
-      url:
+  - name: dany-97.github.io
+    description: My personal website.
+    url:
