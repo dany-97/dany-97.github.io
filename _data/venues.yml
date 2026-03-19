@@ -1,9 +1,31 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# Journals — blue
+"IEEE TIFS":
+  color: "#1565C0"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"IEEE Access":
+  color: "#1565C0"
 
-"Vision":
-  color: "#009f36"
+"RA&S":
+  color: "#1565C0"
+
+"Electronics":
+  color: "#1565C0"
+
+"arXiv":
+  color: "#555555"
+
+# Conferences — green
+"IEEE ICASSP":
+  color: "#2E7D32"
+
+"IECON":
+  color: "#2E7D32"
+
+"IFIP Networking":
+  color: "#2E7D32"
+
+"EUSIPCO":
+  color: "#2E7D32"
+
+"EAGE":
+  color: "#2E7D32"
